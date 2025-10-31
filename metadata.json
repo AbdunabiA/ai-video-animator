@@ -1,0 +1,5 @@
+{
+  "name": "AI Video Animator",
+  "description": "An AI-powered application to create stunning videos and animations for products and logos. Upload an image, provide a prompt, and let the AI bring your vision to life.",
+  "requestFramePermissions": []
+}
